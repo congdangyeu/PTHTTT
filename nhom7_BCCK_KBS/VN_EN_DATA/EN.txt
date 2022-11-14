@@ -1,0 +1,253 @@
+i am a teacher
+i am a doctor
+i am a singer
+i am a journalist
+i am a poet
+i am a student
+i am an engineer
+i am a farmer
+i am a dancer
+i am a policeman
+i am a nurse
+i am an artist
+i am a dentist
+he is a teacher
+he is a doctor
+he is a singer
+he is a journalist
+he is a poet
+he is a student
+she is an engineer
+she is a farmer
+she is a dancer
+she is a policeman
+she is a nurse
+she is an artist
+she is a dentist
+we are teachers
+we are doctors
+we are singers
+we are journalists
+we are poets
+we are students
+we are engineers
+they are farmers
+they are dancers
+they are policemans
+they are nurses
+they are artists
+they are dentists
+her mother gives me a gift
+her father gives me a gift
+her sister gives me a gift
+her brother gives me a gift
+her friend gives me a gift
+her teacher gives me a gift
+her mother gives him a book
+her father gives him a book
+her sister gives him a book
+her brother gives him a book
+her friend gives him a book
+her teacher gives him a book
+his mother gives me a gift
+his father gives me a gift
+his sister gives me a gift
+his brother gives me a gift
+his friend gives me a gift
+his teacher gives me a gift
+my mother gives me 2 books
+my father gives me 3 books
+my sister gives me 4 books
+my brother gives me 5 books
+my friend gives me 6 books
+my teacher gives me 7 books
+she watches television
+she reads a book
+she buys a newspaper
+she goes to school
+she loves dogs
+she loves me
+i love her
+he loves me
+i love him
+i love his father
+i love his mother
+i love his sister
+i love his brother
+i love his teacher
+i love his friend
+he loves his father
+he loves his mother
+he loves his sister
+he loves his brother
+he loves his teacher
+he loves his friend
+he loves her father
+he love her mother
+he love her sister
+he love her brother
+he love her teacher
+he love her friend
+she loves my father
+she loves my mother
+she loves my sister
+she loves my brother
+she loves my teacher
+she loves my friend
+i watch movie
+she watches movie with her friend
+he walks to school
+he is a doctor
+she is a student
+i drink beer with my family
+he drinks beer with me
+he comes from vietnam
+i live in city
+he lives in city
+my family lives in city
+he is a worker
+she is an engineer
+i am an engineer
+this is a good idea
+i like your idea
+i like your hair
+he has yellow hair
+he plays football very good
+he plays tennis with me
+she plays tennis
+she plays volleyball with her friend
+he plays basketball with his father
+his mother goes to cinema
+his father goes to hospital
+my parents watches television
+my brother often watches movie
+my sister often plays tennis
+i do my homework
+i can play volleyball
+he cannot play basketball
+she can swim
+i write a letter
+i read a book
+he writes letter to me
+she writes letter to her friend
+he buys a book
+i give you a book
+my father writes letter to me
+my sister gives me a gift
+he gives her a gift
+she buys a gift
+i like math
+he likes math
+she doesn't likes math
+my brother likes literature
+i don't like literature
+she likes literature
+my friend likes football
+his girlfriend likes math
+my father is a journalist
+i am a poet
+he is a singer
+my mother is an artist
+she is a journalist
+i am a singer
+i sing a song
+he likes black cars
+i have a girlfriend
+my friend don't buy books
+i read a newspaper
+my father buys a newspaper
+she buys a gift
+my teacher walks to school
+this is a fish
+i like fish
+he gives me a pen
+i give girlfriend a pen
+i am a teacher
+he is a poet
+my friend is a journalist
+my sister often reads newspaper
+she often speaks english
+my mother cannot speak english
+the teacher comes from vietnam
+i like yellow hair
+she buys a newspaper
+she is a singer
+he sings my song
+i take picture
+i like your photo
+i clean my room
+this is my bag
+this is my friend
+this is my book
+this is his cat
+this is an apple
+this is a book
+this is my car
+he writes a letter to me
+he writes a letter to her
+she writes a letter to me
+she writes a letter to him
+my father writes a letter to him
+my mother writes a letter to him
+my sister writes a letter to him
+my brother writes a letter to him
+my teacher writes a letter to him
+my friend writes a letter to him
+her father writes a letter to him
+her mother writes a letter to him
+her sister writes a letter to him
+her brother writes a letter to him
+her teacher writes a letter to him
+her friend writes a letter to him
+our mother gives him a book
+our father gives him a book
+our sister gives him a book
+our brother gives him a book
+our friend gives him a book
+our teacher gives him a book
+their father writes a letter to him
+their mother writes a letter to him
+their sister writes a letter to him
+their brother writes a letter to him
+their teacher writes a letter to him
+their friend writes a letter to him
+she loves cats
+she loves dogs
+he loves dogs
+he loves cats
+i love dogs
+i love cats
+i love fishes
+he loves fishes
+she loves fishes
+i go to zoo
+he goes to zoo with his parents
+she goes to zoo with her friend
+she often listens to music
+he often reads book
+he plays tennis with me
+she plays tennis
+she plays volleyball with her friend
+he plays basketball with his father
+his mother goes to cinema
+his father goes to hospital
+my parents watches television
+my brother often watches movie
+my sister often plays tennis
+i do my homework
+i can play volleyball
+he cannot play basketball
+she can swim
+i write a letter
+i read a book
+he writes letter to me
+she writes letter to her friend
+he buys a book
+i give you a book
+my father writes letter to me
+my sister gives me a gift
+he gives her a gift
+she buys a gift
+this is my dog
+this is his dog
+this is her dog

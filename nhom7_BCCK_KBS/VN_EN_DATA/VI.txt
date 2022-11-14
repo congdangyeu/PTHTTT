@@ -1,0 +1,253 @@
+tôi là một giáo viên
+tôi là một bác sĩ
+tôi là một ca sĩ
+tôi là một nhà báo
+tôi là một nhà thơ
+tôi là một học sinh
+tôi là một kỹ sư
+tôi là một nông dân
+tôi là một vũ công
+tôi là một cảnh sát
+tôi là một y tá
+tôi là một hoạ sĩ
+tôi là một nha sĩ
+anh ấy là một giáo viên
+anh ấy là một bác sĩ
+anh ấy là một ca sĩ
+anh ấy là một nhà báo
+anh ấy là một nhà thơ
+anh ấy là một học sinh
+cô ấy là một kỹ sư
+cô ấy là một nông dân
+cô ấy là một vũ công
+cô ấy là một cảnh sát
+cô ấy là một y tá
+cô ấy là một hoạ sĩ
+cô ấy là một nha sĩ
+chúng tôi là những giáo viên
+chúng tôi là những bác sĩ
+chúng tôi là những ca sĩ
+chúng tôi là những nhà báo
+chúng tôi là những nhà thơ
+chúng tôi là những học sinh
+chúng tôi là những kỹ sư
+họ là những nông dân
+họ là những vũ công
+họ là những cảnh sát
+họ là những y tá
+họ là những hoạ sĩ
+họ là những nha sĩ
+mẹ của cô ấy tặng tôi một món quà
+bố của cô ấy tặng tôi một món quà
+em gái của cô ấy tặng tôi một món quà
+anh trai của cô ấy tặng tôi một món quà
+bạn của cô ấy tặng tôi một món quà
+thầy giáo của cô ấy tặng tôi một món quà
+mẹ của cô ấy tặng anh ấy một quyển sách
+bố của cô ấy tặng anh ấy một quyển sách
+em gái của cô ấy tặng anh ấy một quyển sách
+anh trai của cô ấy tặng anh ấy một quyển sách
+bạn của cô ấy tặng anh ấy một quyển sách
+thầy giáo của cô ấy tặng anh ấy một quyển sách
+mẹ của anh ấy tặng tôi một món quà
+bố của anh ấy tặng tôi một món quà
+em gái của anh ấy tặng tôi một món quà
+anh trai của anh ấy tặng tôi một món quà
+bạn của anh ấy tặng tôi một món quà
+thầy giáo của anh ấy tặng tôi một món quà
+mẹ của tôi tặng tôi 2 quyển sách
+bố của tôi tặng tôi 3 quyển sách
+em gái của tôi tặng tôi 4 quyển sách
+anh trai của tôi tặng tôi 5 quyển sách
+bạn của tôi tặng tôi 6 quyển sách
+thầy giáo của tôi tặng tôi 7 quyển sách
+cô ấy xem ti vi
+cô ấy mua một quyển sách
+cô ấy mua một tờ báo
+cô ấy đi đến trường
+cô ấy yêu những con chó
+cô ấy yêu tôi
+tôi yêu cô ấy
+anh ấy yêu tôi
+tôi yêu anh ấy
+tôi yêu bố của anh ấy
+tôi yêu mẹ của anh ấy
+tôi yêu em gái của anh ấy
+tôi yêu anh trai của anh ấy
+tôi yêu thầy giáo của anh ấy
+tôi yêu bạn của anh ấy
+anh ấy yêu bố của anh ấy
+anh ấy yêu mẹ của anh ấy
+anh ấy yêu em gái của anh ấy
+anh ấy yêu anh trai của anh ấy
+anh ấy yêu thầy giáo của anh ấy
+anh ấy yêu bạn của anh ấy
+anh ấy yêu bố của cô ấy
+anh ấy yêu mẹ của cô ấy
+anh ấy yêu em gái của cô ấy
+anh ấy yêu anh trai của cô ấy
+anh ấy yêu thầy giáo của cô ấy
+anh ấy yêu bạn của cô ấy
+cô ấy yêu bố của tôi
+cô ấy yêu mẹ của tôi
+cô ấy yêu em gái của tôi
+cô ấy yêu anh trai của tôi
+cô ấy yêu thầy giáo của tôi
+cô ấy yêu bạn của tôi
+tôi xem phim
+cô ấy xem phim với bạn của cô ấy
+anh ấy đi bộ đến bệnh viện
+anh ta là một bác sĩ
+cô ấy là một học sinh
+tôi uống bia với gia đình của tôi
+anh ta uống bia với tôi
+anh ấy đến từ việt nam
+tôi sống ở thành phố
+anh ta sống ở thành phố
+gia đình của tôi sống ở thành phố
+anh ấy là một công nhân
+cô ấy là một kĩ sư
+tôi là một kĩ sư
+đây là một ý kiến tốt
+tôi thích ý kiến của bạn
+tôi thích tóc của bạn
+anh ấy có tóc màu đen
+anh ta chơi đá bóng rất giỏi
+anh ấy chơi tennis với tôi
+cô ta chơi tennis
+cô ấy chơi bóng chuyền với bạn của cô ấy
+anh ta chơi bóng rổ với bố của anh ta
+mẹ của anh ta đi đến rạp phim
+bố của anh ta đi đến bệnh viện
+bố mẹ của tôi xem ti vi
+anh trai của tôi thường xem phim
+em gái thường chơi tennis
+tôi làm bài tập về nhà của tôi
+tôi có thể chơi bóng chuyền
+anh ta không thể chơi bóng rổ
+cô ta có thể bơi
+tôi viết một lá thư
+tôi đọc một cuốn sách
+anh ấy viết thư cho tôi
+cô ta viết thư cho bạn của cô ấy
+anh ta mua một cuốn sách
+tôi tặng bạn một cuốn sách
+bố của tôi viết thư cho tôi
+em gái của tôi tặng tôi một món quà
+anh ta tặng cô gái một món quà
+cô gái mua một món quà
+tôi thích môn toán
+chàng trai thích môn toán
+cô gái không thích môn toán
+anh trai của tôi thích môn văn
+tôi không thích môn văn
+cô ấy thích môn văn
+bạn của tôi thích đá bóng
+bạn gái của anh ta thích môn toán
+bố của tôi là một nhà báo
+tôi là một nhà thơ
+anh ấy là một ca sĩ
+mẹ tôi là một nghệ sĩ
+cô ta là một nhà báo
+tôi là một ca sĩ
+tôi hát một bài hát
+anh ấy thích ô tô màu đen
+tôi có một cô bạn gái
+bạn của tôi không mua sách
+tôi đọc một tờ báo
+bố của tôi mua một tờ báo
+cô ấy mua một món quà
+giáo viên của tôi đi bộ đến trường
+đây là một con cá
+tôi thích con cá
+anh ấy tặng tôi một cái bút
+tôi tặng bạn gái một cái bút
+tôi là một giáo viên
+anh ấy là một nhà thơ
+bạn của tôi là một nhà báo
+chị gái của tôi thường đọc báo
+cô ta thường nói tiếng anh
+mẹ của tôi không thể nói tiếng anh
+giáo viên đến từ việt nam
+tôi thích tóc màu vàng
+cô gái mua một tờ báo
+cô ta là một ca sĩ
+anh ấy hát bài hát của tôi
+tôi chụp ảnh
+tôi thích ảnh của bạn
+tôi dọn phòng của tôi
+đây là túi của tôi
+đây là bạn của tôi
+đây là cuốn sách của tôi
+đây là con mèo của anh ấy
+đây là một quả táo
+đây là một cuốn sách
+đây là ô tô của tôi
+anh ấy viết một lá thư cho tôi
+anh ấy viết một lá thư cho cô ấy
+cô ấy viết một lá thư cho tôi
+cô ấy viết một lá thư cho anh ấy
+bố của tôi viết một lá thư cho anh ấy
+mẹ của tôi viết một lá thư cho anh ấy
+em gái của tôi viết một lá thư cho anh ấy
+anh trai của tôi viết một lá thư cho anh ấy
+giáo viên của tôi viết một lá thư cho anh ấy
+bạn của tôi viết một lá thư cho anh ấy
+bố của cô ấy viết một lá thư cho anh ấy
+mẹ của cô ấy viết một lá thư cho anh ấy
+em gái của cô ấy viết một lá thư cho anh ấy
+anh trai của cô ấy viết một lá thư cho anh ấy
+giáo viên của cô ấy viết một lá thư cho anh ấy
+bạn của cô ấy viết một lá thư cho anh ấy
+mẹ của chúng tôi tặng anh ấy một quyển sách
+bố của chúng tôi tặng anh ấy một quyển sách
+em gái của chúng tôi tặng anh ấy một quyển sách
+anh trai của chúng tôi tặng anh ấy một quyển sách
+bạn của chúng tôi tặng anh ấy một quyển sách
+thầy giáo của chúng tôi tặng anh ấy một quyển sách
+bố của họ viết một lá thư cho anh ấy
+mẹ của họ viết một lá thư cho anh ấy
+em gái của họ viết một lá thư cho anh ấy
+anh trai của họ viết một lá thư cho anh ấy
+giáo viên của họ viết một lá thư cho anh ấy
+bạn của họ viết một lá thư cho anh ấy
+cô ấy yêu những con mèo
+cô ấy yêu những con chó
+anh ấy yêu những con chó
+anh ấy yêu những con mèo
+tôi yêu những con chó
+tôi yêu những con mèo
+tôi yêu những con cá
+anh ấy yêu những con cá
+cô ấy yêu những con cá
+tôi đi đến sở thú
+anh ấy đi đến sở thú với bố mẹ của anh ấy
+cô ấy đi đến sở thú với bạn của cô ấy
+cô ấy thường nghe nhạc
+anh ta thường đọc sách
+anh ấy chơi tennis với tôi
+cô ta chơi tennis
+cô ấy chơi bóng chuyền với bạn của cô ấy
+anh ta chơi bóng rổ với bố của anh ta
+mẹ của anh ta đi đến rạp phim
+bố của anh ta đi đến bệnh viện
+bố mẹ của tôi xem ti vi
+anh trai của tôi thường xem phim
+em gái thường chơi tennis
+tôi làm bài tập về nhà của tôi
+tôi có thể chơi bóng chuyền
+anh ta không thể chơi bóng rổ
+cô ta có thể bơi
+tôi viết một lá thư
+tôi đọc một cuốn sách
+anh ấy viết thư cho tôi
+cô ta viết thư cho bạn của cô ấy
+anh ta mua một cuốn sách
+tôi tặng bạn một cuốn sách
+bố của tôi viết thư cho tôi
+em gái của tôi tặng tôi một món quà
+anh ta tặng cô gái một món quà
+cô gái mua một món quà
+đây là con chó của tôi
+đây là con chó của anh ấy
+đây là con chó của cô ấy
